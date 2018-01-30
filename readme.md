@@ -3,9 +3,7 @@
 [![CircleCI](https://circleci.com/gh/MicrosoftLearning/20535-ArchitectingMicrosoftAzureSolutions/tree/master.svg?style=svg)](https://circleci.com/gh/MicrosoftLearning/20535-ArchitectingMicrosoftAzureSolutions/tree/master)
 
 - **[Download Latest Student Handbook and AllFiles Content](https://github.com/MicrosoftLearning/20535-ArchitectingMicrosoftAzureSolutions/releases/latest)**
-- **Want to see latest changes?** - Check out our [Changelog](changelog.md)
-- **Thinking of Contributing?** - Check our our [Contributor Guide](.guides/contributor_guide.md)
-- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](.guides/mct_guide.md)
+- **Are you a MCT?** - Have a look at our [GitHub User Guide for MCTs](.github/CONTRIBUTING.md)
 
 ## What are we doing?
 
@@ -36,5 +34,3 @@
 ### Classroom Materials
 
 It is strongly recommended that MCTs and Partners access these materials and in turn, provide them separately to students.  Pointing students directly to GitHub to access Lab steps as part of an ongoing class will require them to access yet another UI as part of the course, contributing to a confusing experience for the student. An explanation to the student regarding why they are receiving separate Lab instructions can highlight the nature of an always-changing cloud-based interface and platform. Microsoft Learning support for accessing files on GitHub and support for navigation of the GitHub site is limited to MCTs teaching this course only.
-
-> **MCTs:** Refer to the '20535A GitHub User Guide for MCTs.docx' file on the Download Center for detailed instructions for using GitHub. This document is also available on the GitHub repo as [GitHub User Guide for MCTs](.guides/mct_guide.md).
